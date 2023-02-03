@@ -1,6 +1,6 @@
 print("---#6012---")
 a=int(input())
 b=int(input())
-print(a,"\n", b)
+print(a,b,seq='\n')
 #print(str(a)+'\n'+str(b))
-#print(a,b,seq='\n')
+#print(a,"\n", b)
