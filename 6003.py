@@ -1,0 +1,5 @@
+print("----#6003----")
+print("Hello")
+print("World")
+print("--------")
+print("Hello\nWorld")
